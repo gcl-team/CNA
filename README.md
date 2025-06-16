@@ -6,7 +6,21 @@ CNA is a lightweight, open-source React frontend template for building ChatGPT-l
 
 CNA focuses on simplicity, performance, and ease of customization — no CSS frameworks, minimal dependencies, and ready to extend for voice input, image messages, dark mode, and more.
 
----
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Light Mode</strong><br/>
+      <img width="520" alt="image" src="https://github.com/user-attachments/assets/8bb1394e-ffcc-499a-a37e-0199b4d30280" />
+    </td>
+    <td align="center">
+      <strong>Dark Mode</strong><br/>
+      <img width="514" alt="image" src="https://github.com/user-attachments/assets/860f2a10-d27c-46ee-bcec-2e3c00aedf81" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🚀 Getting Started
 
