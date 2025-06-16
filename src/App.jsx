@@ -1,7 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
 import './App.css';
-import Sidebar from './components/Sidebar';
-
 
 function App() {
   const [theme, setTheme] = useState('light');
