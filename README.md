@@ -1,6 +1,8 @@
-# 👋 Welcome to CNA!
+# CNA: Chat UI for Nextgen App
 
-**CNA** stands for **Chat UI for Nextgen Apps**. It is a lightweight, open-source React frontend template for building ChatGPT-like web apps with Vite.
+## 👋 Welcome to CNA!
+
+CNA is a lightweight, open-source React frontend template for building ChatGPT-like web apps with Vite.
 
 CNA focuses on simplicity, performance, and ease of customization — no CSS frameworks, minimal dependencies, and ready to extend for voice input, image messages, dark mode, and more.
 
